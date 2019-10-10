@@ -19,7 +19,7 @@
 #' @return A tidy data frame containing parameter names, Estimates and
 #' confidence intervals for parametric terms
 #'
-#' @method confint gam
+#' @export confint.gam
 #' @export
 #'
 #' @examples
